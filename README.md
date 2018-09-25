@@ -29,7 +29,7 @@ fields.
 *  "staticPath": The path where the static html/css/js resources are located.
    Note
    that this path is relative to the directory of the run_server.js file, which
-   is in you projects `node_modules`
+   is in your projects `node_modules`
    `node_modules/@conversationai/perspectiveapi-simple-server/build/server/run_server.js`
 
 *  "googleCloudApiKey": The API key for your google cloud project.
